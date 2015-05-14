@@ -1,0 +1,2 @@
+# SXAttributLable
+试试看如何用Label的富文本显示彩色字体
